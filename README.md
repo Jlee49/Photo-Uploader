@@ -1,1 +1,2 @@
 # Photo-Uploader
+This project solely focuses on the functionality side of programming rather than the aesthetics. This is a website that displays pictures which are uploaded by users. The images passed in has to be under a certain size for it to successfully upload. THe images and the details about the image are stored in a mysql database which are taken out and displayed using php code. The website was created with a combination php, sql, html and css coding.
